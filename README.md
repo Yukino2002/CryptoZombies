@@ -1,3 +1,3 @@
 # CryptoZombies
 
-Solidity code for the CryptoZombies tutorial series: https://cryptozombies.io
+Solidity code for practice for the CryptoZombies tutorial series: https://cryptozombies.io
